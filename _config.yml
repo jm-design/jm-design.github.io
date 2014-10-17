@@ -3,8 +3,8 @@
 # Site settings
 title: jm Design
 description: "Modern Responsive Web Design, from those with experience, knowledge and innovation."
-baseurl: "//shakna-israel.github.io/jmilne.com.au"
-url: ""
+baseurl: ""
+url: "//jm-design.github.io"
 
 # Build settings
 markdown: kramdown
