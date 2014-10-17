@@ -2,60 +2,27 @@
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  - name: James Milne
+    position: Developer
+    text: Ruby, HTML5, Magento and Wordpress.
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:jmilne@graphic-designer.com
       - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/jimilne
 
 # Clients information. Shown on Home and About pages.
 clients:
   - name: dribbble
     img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Modern Responsive Web Design, from those with experience, knowledge and innovation. Specialising in HTML5, static Ruby, and PHP."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    message: ""
     author: Marcel Newman
     position: WEB DESIGNER - BLACKTIE.CO
 
@@ -77,12 +44,12 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - 136a Inglis Street,
-    - Ballan,
-    - Victoria, 3342,
+    - 22 Ningana Street,
+    - Ballarat,
+    - Victoria, 3350,
     - Australia.
-email: james.m@auswideweb.com.au
-tel: (03) 5368 2611
+email: jmilne@graphic-designer.com
+tel: (+61) 459 528 387
 contact_comment: Get in touch today to grab a quote, or if you just want to know something more!
 
 #Enable of Disable Site Sections
@@ -92,4 +59,4 @@ portfolio_enabled: true
 services_enabled: true
 testimonial_enabled: false
 clients_enabled: false
-members_enabled: false
+members_enabled: true

@@ -42,8 +42,8 @@ permalink: /contact/
                     {% endfor %}
                 </p>
                 <p>
-                    Email: {{ site.data.site.email }}<br/>
-                    Tel: {{ site.data.site.tel }}
+                    Email: <a href="mailto:{{ site.data.site.email }}">{{ site.data.site.email }}</a><br/>
+                    Tel: <a href="tel:{{ site.data.site.tel }}">{{ site.data.site.tel }}</a>
                 </p>
                 <p>{{ site.data.site.contact_comment }}</p>
         </div>

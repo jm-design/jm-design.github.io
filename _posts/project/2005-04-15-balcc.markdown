@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "Ballarat Christian College"
+date:   2014-04-25 16:54:46
+author: James Milne
+categories:
+- project
+img: balcc_cover.jpg
+thumb: balcc_cover.jpg
+carousel:
+- balcc_01.JPG
+client: Ballarat Christian College
+website: //www.balcc.vic.edu.au/
+---
+####Ballarat Christian College
+
+Though the client has failed to maintain, or accept offers of maintainence, this Joomla installation was styled right back when I was first getting to grips with CSS. Before we were allowed to use percentages and make designs work on multiple devices, we found a way to center designs.
+
+This is an example of that sort of design - groundbreaking at the time.
+
+But it isn't 2005 anymore.
