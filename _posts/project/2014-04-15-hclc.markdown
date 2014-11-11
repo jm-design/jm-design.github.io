@@ -12,7 +12,7 @@ carousel:
 - hclc_02.JPG
 - hclc_03.JPG
 client: Haddon Community Learning Centre
-website: //shakna-israel.github.io/haddonRevamp/
+website: //haddonlearning.org.au
 ---
 ####Haddon Community Learning Centre
 The LearnLocal Community Centre at Haddon was running a simple, static, outdated and fairly ugly looking Virb template. (You can see it <a href="//shakna-israel.github.io/hclc_proposal/#/1" target="_blank">here</a>).
