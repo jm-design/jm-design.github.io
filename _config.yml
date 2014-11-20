@@ -15,3 +15,7 @@ excerpt_separator: <!--more--> #use this in posts to define how long the excerpt
 
 #Contact Data has moved into _data/site.yml, referenced with {{ site.data.site.[element] }}
 #General Data has moved into _data/site.yml, referenced with {{ site.data.site.[element] }}
+
+#Github Pages Defaults
+safe: true
+lsi: false
